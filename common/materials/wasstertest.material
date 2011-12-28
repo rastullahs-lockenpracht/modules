@@ -1,0 +1,7 @@
+import Wassershader from Wassershader.program
+
+
+material wasstertest : Wassershader
+{
+
+}
